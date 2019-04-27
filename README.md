@@ -9,6 +9,7 @@ Please leave feedback https://aka.ms/mark/psna/voice
 
 ## Install the Azure PowerShell module from the PowerShell Gallery
 `Install-Module -Name Az -AllowClobber -Scope CurrentUser`
+
 [Introduction](https://docs.microsoft.com/en-us/powershell/azure/new-azureps-module-az)
 
 ## LEGACY: Install the Azure Resource Manager modules from the PowerShell Gallery
