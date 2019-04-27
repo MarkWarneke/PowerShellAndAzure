@@ -17,7 +17,3 @@ Please leave feedback https://aka.ms/mark/psna/voice
 
 ## LEGACY: Install Azure Resource Manager on Linux / Mac
 - https://github.com/Azure/azure-cli
-
-## Local Git Deployment to Azure App Service
-- https://docs.microsoft.com/en-us/azure/app-service-web/app-service-deploy-local-git
-- https://msdn.microsoft.com/en-us/powershell/scripting/core-powershell/running-remote-commands
